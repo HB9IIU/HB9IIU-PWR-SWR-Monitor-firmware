@@ -1,6 +1,6 @@
 {
   "name": "PMX-500",
-  "version": "12.2.5",
+  "version": "12.2.6",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
